@@ -32,7 +32,7 @@ const Navbar = () => {
           bgGradient={"linear(to-r, aqua, blue.400)"}
           bgClip={"text"}
         >
-          <Link to={"/"}>Produtify</Link>
+          <Link to={"/"}>Productify</Link>
         </Text>
 
         <HStack>
